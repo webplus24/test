@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-   dffdfddf     // put your code here
+   777777777777     // put your code here
         ?>
     </body>
 </html>
