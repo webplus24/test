@@ -10,7 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <?php
+        <?php 666
         fddddddddd
    777777777777     // put your code here
         ?>
